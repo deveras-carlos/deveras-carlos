@@ -1,4 +1,4 @@
-# Alithinos Fylakas
+# Alphinos
 
 <!--
 My name is Carlos Veras and I'm 18 years old, nice to meet you!
