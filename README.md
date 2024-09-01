@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alphinos
+# Deveras
 *A problem solver*
   
 <!--
